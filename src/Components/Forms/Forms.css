@@ -1,0 +1,51 @@
+.maindiv{
+  
+   border:2px solid red; 
+    margin:2%; 
+    
+  
+    padding: 5%;
+}
+.logform{
+   padding: 5%;
+   width:50%; 
+   border:1px solid black; 
+   position: relative;
+   left:20%;
+   
+   
+}
+.outer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.maindiv .formtitle{
+    background-color: rgb(133, 10, 249);
+    color: white;
+}
+.logform div{
+    padding: 3%;
+}
+
+.logform div label{
+    padding: 2%;
+}
+
+.logform button{
+    margin-top: 4%;
+    padding: 2%;
+    position: relative;
+    left:45%; 
+}
+
+.item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: antiquewhite;
+
+}
+
+.res{
+    background-color: rgb(177, 240, 164);
+}
